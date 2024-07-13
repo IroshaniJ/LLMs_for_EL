@@ -1,0 +1,16 @@
+datetime
+bitsandbytes
+git+https://github.com/huggingface/transformers.git
+git+https://github.com/huggingface/peft.git
+git+https://github.com/huggingface/accelerate.git
+datasets
+scipy
+ipywidgets
+matplotlib
+langchain-community
+pandas
+langchain
+mediawikiapi
+wikibase-rest-api-client
+huggingface_hub
+tqdm
